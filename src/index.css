@@ -1,0 +1,27 @@
+* {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+}
+
+.to-do-app {
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+button {
+  padding: 0.4rem 0.5rem;
+  border: none;
+  border-radius: 1rem;
+  color: white;
+  cursor: pointer;
+}
